@@ -5,6 +5,6 @@ Ce portfolio contient la liste des projets que j'ai réalisés jusqu'à maintena
 ### Liste des projets
 
 
-[Premier projet](https://github.com/Ghalia671/premier_projet.github.io/Defi_1_3_Ghalia.ipynb)
+[Premier projet](https://github.com/Ghalia671/premier_projet.github.io/Defi_1_3_Ghalia.slides.html)
 
-<a href="https://github.com/Ghalia671/premier_projet.github.io/Defi_1_3_Ghalia.ipynb">Premier Projet</a>
+<a href="https://github.com/Ghalia671/premier_projet.github.io/Defi_1_3_Ghalia.slides.html">Premier Projet</a>
