@@ -5,6 +5,7 @@ Ce portfolio contient la liste des projets que j'ai réalisés jusqu'à maintena
 ### Liste des projets
 
 [Premier projet](https://github.com/Ghalia671/premier_projet.github.io/tree/gh-pages/docs/Defi_1_3_Ghalia.slides.html)
+
 <a href="https://htmlpreview.github.io/?https://github.com/Ghalia671/premier_projet.github.io/tree/gh-pages/Defi_1_3_Ghalia.slides.html">Premier Projet - Lien HTML </a>
 
 <body>
@@ -15,5 +16,7 @@ Ce portfolio contient la liste des projets que j'ai réalisés jusqu'à maintena
 			<input type="submit" value="Preview">
 		</p>
 	</form>
-	<script src="/htmlpreview.js"></script>
+	<script src="htmlpreview.js"></script>
 </body>
+
+ <a href="javascript:htmlpreview('https://github.com/Ghalia671/premier_projet.github.io/tree/gh-pages/docs/Defi_1_3_Ghalia.slides.html');">Execute JavaScript</a> 
