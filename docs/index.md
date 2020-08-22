@@ -6,3 +6,5 @@ Ce portfolio contient la liste des projets que j'ai réalisé jusqu'à maintenan
 
 <a href="https://htmlpreview.github.io/?https://github.com/Ghalia671/premier_projet.github.io/blob/gh-pages/docs/Defi_1_3_Ghalia.slides.html">Premier Projet</a>
 
+<a href="https://htmlpreview.github.io/?https://github.com/Ghalia671/premier_projet.github.io/blob/gh-pages/docs/Defi_6_7_Ghalia.html">Second Projet</a>
+
